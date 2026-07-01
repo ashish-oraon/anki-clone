@@ -1,0 +1,38 @@
+{
+  "decks": [
+    {
+      "id": "seed-javascript-basics",
+      "name": "JavaScript Basics",
+      "description": "Starter cards for common JavaScript concepts.",
+      "cards": [
+        {
+          "id": "seed-js-const",
+          "front": "What does const prevent in JavaScript?",
+          "back": "It prevents rebinding the variable name, but objects and arrays assigned to it can still be mutated."
+        },
+        {
+          "id": "seed-js-promise",
+          "front": "What is a Promise?",
+          "back": "A Promise represents a future asynchronous result that can be fulfilled or rejected."
+        }
+      ]
+    },
+    {
+      "id": "seed-spanish-basics",
+      "name": "Spanish Basics",
+      "description": "A tiny sample deck for testing the study flow.",
+      "cards": [
+        {
+          "id": "seed-spanish-hola",
+          "front": "Hola",
+          "back": "Hello"
+        },
+        {
+          "id": "seed-spanish-gracias",
+          "front": "Gracias",
+          "back": "Thank you"
+        }
+      ]
+    }
+  ]
+}

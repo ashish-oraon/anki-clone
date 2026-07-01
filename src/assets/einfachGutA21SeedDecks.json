@@ -1,0 +1,2386 @@
+{
+  "decks": [
+    {
+      "id": "seed-einfach-gut-a2-1-lesson-1",
+      "name": "Einfach gut A2.1 - Lektion 1: Chatten, mailen, sich informieren",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.1. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.1_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-abendkasse",
+          "front": "die Abendkasse",
+          "back": "box office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-abholen",
+          "front": "abholen",
+          "back": "to collect"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-aktuell",
+          "front": "aktuell",
+          "back": "current"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-alle",
+          "front": "alle",
+          "back": "all"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-anklicken",
+          "front": "anklicken",
+          "back": "to click"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-app",
+          "front": "die App",
+          "back": "app"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-aussuchen",
+          "front": "aussuchen",
+          "back": "to choose"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-benutzername",
+          "front": "der Benutzername",
+          "back": "user name"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-bestellen",
+          "front": "bestellen",
+          "back": "to order"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-chatten",
+          "front": "chatten",
+          "back": "to chat"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-datei",
+          "front": "die Datei",
+          "back": "file | Plural: Dateien"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-dich",
+          "front": "dich",
+          "back": "you"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-diskutieren",
+          "front": "diskutieren",
+          "back": "to discuss"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-drucken",
+          "front": "drucken",
+          "back": "to print"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-eintritt",
+          "front": "der Eintritt",
+          "back": "entry | Plural: Eintritte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-empfehlen",
+          "front": "empfehlen",
+          "back": "to recommend"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-empfehlung",
+          "front": "die Empfehlung",
+          "back": "recommendation | Plural: Empfehlungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-flirten",
+          "front": "flirten",
+          "back": "to flirt"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-flohmarkt",
+          "front": "der Flohmarkt",
+          "back": "flea market | Plural: Flohmärkte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-forum",
+          "front": "das Forum",
+          "back": "forum"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-funktionieren",
+          "front": "funktionieren",
+          "back": "to work"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-gebraucht",
+          "front": "gebraucht",
+          "back": "used"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-googeln",
+          "front": "googeln",
+          "back": "to google"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-herausfinden",
+          "front": "herausfinden",
+          "back": "to find out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-herunterladen",
+          "front": "herunterladen",
+          "back": "to download"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-hochladen",
+          "front": "hochladen",
+          "back": "to upload"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-informieren",
+          "front": "informieren",
+          "back": "to inform"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-international",
+          "front": "international",
+          "back": "international"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-internet",
+          "front": "das Internet",
+          "back": "Internet"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-kennwort",
+          "front": "das Kennwort",
+          "back": "password | Plural: Kennwörter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-kinokarte",
+          "front": "die Kinokarte",
+          "back": "cinema ticket"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-klicken",
+          "front": "klicken",
+          "back": "to click"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-kommentar",
+          "front": "der Kommentar",
+          "back": "comment | Plural: Kommentare"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-kostenlos",
+          "front": "kostenlos",
+          "back": "free of charge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-kulturcafe",
+          "front": "das Kulturcafé",
+          "back": "cul | Example: ture café"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-loschen",
+          "front": "löschen",
+          "back": "to delete"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-mailen",
+          "front": "mailen",
+          "back": "to mail"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-mich",
+          "front": "mich",
+          "back": "me"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-mitkommen",
+          "front": "mitkommen",
+          "back": "to come along | Example: Kommen deine Eltern mit?"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-mitmachen",
+          "front": "mitmachen",
+          "back": "to participate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-nachschauen",
+          "front": "nachschauen",
+          "back": "to | Example: look up Schauen wir doch ma l im Internet nach."
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-neffe",
+          "front": "der Neffe",
+          "back": "nephew"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-nervos",
+          "front": "nervös",
+          "back": "nervous"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-newsletter",
+          "front": "Newsletter",
+          "back": "newsletter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-oben",
+          "front": "oben",
+          "back": "at the top"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-politik",
+          "front": "die Politik",
+          "back": "politics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-prima",
+          "front": "prima",
+          "back": "great"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-programm",
+          "front": "das Programm",
+          "back": "programme | Plural: Programme"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-radtour",
+          "front": "die Radtour",
+          "back": "cycling tour | Plural: Radtouren"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-regen",
+          "front": "der Regen",
+          "back": "rain"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-regenschirm",
+          "front": "der Regenschirm",
+          "back": "umbrella"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-reihenfolge",
+          "front": "die Reihenfolge",
+          "back": "order"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-reservieren",
+          "front": "reservieren",
+          "back": "to book"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-reservierung",
+          "front": "die Reservierung",
+          "back": "booking"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-rolle",
+          "front": "die Rolle",
+          "back": "ro le | Plural: Rollen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-sinken",
+          "front": "sinken",
+          "back": "to decrease"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-smartphone",
+          "front": "das Smartphone",
+          "back": "smartphone"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-speichern",
+          "front": "speichern",
+          "back": "to save"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-spielzeug",
+          "front": "das Spielzeug",
+          "back": "toy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-starten",
+          "front": "starten",
+          "back": "to begin"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-startseite",
+          "front": "die Startseite",
+          "back": "homepage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-steigen",
+          "front": "steigen",
+          "back": "to increase"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-straenfest",
+          "front": "das Straßenfest",
+          "back": "street party"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-symbol",
+          "front": "das Symbol",
+          "back": "symbol | Plural: Symbole"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-tauschen",
+          "front": "tauschen",
+          "back": "to swap"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-temperatur",
+          "front": "die Temperatur",
+          "back": "temperature | Plural: Temperaturen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-theater",
+          "front": "das Theater",
+          "back": "theatre"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-treffpunkt",
+          "front": "der Treffpunkt",
+          "back": "venue"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-unternehmen",
+          "front": "unternehmen",
+          "back": "to undertake"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-verabredung",
+          "front": "die Verabredung",
+          "back": "meet up | Plural: Verabredungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-veranstaltung",
+          "front": "die Veranstaltung",
+          "back": "event | Plural: Veranstaltungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-veranstaltungstipp",
+          "front": "der Veranstaltungstipp",
+          "back": "event tip | Plural: Veranstaltungstipps"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-vorschlag",
+          "front": "der Vorschlag",
+          "back": "suggestion | Plural: Vorschläge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-welt",
+          "front": "die Welt",
+          "back": "world"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-wettervorhersage",
+          "front": "die Wettervorhersage",
+          "back": "weather forecast"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-wirtschaft",
+          "front": "die Wirtschaft",
+          "back": "economy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-wurstchen",
+          "front": "das Würstchen",
+          "back": "sausage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-zeitweise",
+          "front": "zeitweise",
+          "back": "occasionally"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-zuhoren",
+          "front": "zuhören",
+          "back": "to listen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-1-zuschauen",
+          "front": "zuschauen",
+          "back": "to watch"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-1-lesson-2",
+      "name": "Einfach gut A2.1 - Lektion 2: Mit Bus und Bahn",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.1. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.1_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-abfahren",
+          "front": "abfahren",
+          "back": "to depart"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-abfahrt",
+          "front": "die Abfahrt",
+          "back": "departure | Plural: Abfahrten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-ankommen",
+          "front": "ankommen",
+          "back": "to arrive"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-ankunft",
+          "front": "die Ankunft",
+          "back": "arrival | Plural: Ankünfte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-anschluss",
+          "front": "der Anschluss",
+          "back": "connection"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-anschlusszug",
+          "front": "der Anschlusszug",
+          "back": "connecting train | Plural: Anschlusszüge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-ausblenden",
+          "front": "ausblenden",
+          "back": "to fade out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-ausfallen",
+          "front": "ausfallen",
+          "back": "to be cancelled"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-aussteigen",
+          "front": "aussteigen",
+          "back": "to get out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-autofahren",
+          "front": "das Autofahren",
+          "back": "to drive a car"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-automat",
+          "front": "der Automat",
+          "back": "vending machine"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-bahnfahren",
+          "front": "das Bahnfahren",
+          "back": "rail travel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-bahnsteig",
+          "front": "der Bahnsteig",
+          "back": "platform"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-bitten",
+          "front": "bitten",
+          "back": "to ask"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-buchen",
+          "front": "buchen",
+          "back": "to book"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-dauer",
+          "front": "die Dauer",
+          "back": "duration"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-defekt",
+          "front": "defekt",
+          "back": "defective"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-deshalb",
+          "front": "deshalb",
+          "back": "hence"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-drehen",
+          "front": "drehen",
+          "back": "to turn"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-druben",
+          "front": "drüben",
+          "back": "over there"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-einfahrt",
+          "front": "die Einfahrt",
+          "back": "entry | Plural: Einfahrten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-einsteigen",
+          "front": "einsteigen",
+          "back": "to board"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-erhalten",
+          "front": "erhalten",
+          "back": "to receive"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-erreichen",
+          "front": "erreichen",
+          "back": "to reach"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-fahrkartenschalter",
+          "front": "der Fahrkartenschalter",
+          "back": "ticket office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-fahrplan",
+          "front": "der Fahrplan",
+          "back": "schedule | Plural: Fahrpl; äne"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-fernbus",
+          "front": "der Fernbus",
+          "back": "long-distance bus"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-fliegen",
+          "front": "fliegen",
+          "back": "to fly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-flugzeug",
+          "front": "das Flugzeug",
+          "back": "plane | Plural: Flugzeuge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-grund",
+          "front": "der Grund",
+          "back": "ground"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-halt",
+          "front": "der Halt",
+          "back": "stop"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-hin",
+          "front": "hin",
+          "back": "there"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-hinfahrt",
+          "front": "die Hinfahrt",
+          "back": "journey there | Plural: Hinfahrten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-er-in",
+          "front": "der/die er/in",
+          "back": "employee"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-mitnehmen",
+          "front": "mitnehmen",
+          "back": "to take with"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-nah",
+          "front": "nah",
+          "back": "close"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-namlich",
+          "front": "nämlich",
+          "back": "namely"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-nummer",
+          "front": "die Nummer",
+          "back": "number"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-option",
+          "front": "die Option",
+          "back": "option"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-passieren",
+          "front": "passieren",
+          "back": "to happen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-pech",
+          "front": "das Pech",
+          "back": "bad luck"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-planmaig",
+          "front": "planmäßig",
+          "back": "on schedule"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-preiswert",
+          "front": "preiswert",
+          "back": "inexpensive"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-reisemoglichkeit",
+          "front": "die Reisemöglichkeit",
+          "back": "travel option | Plural: Reisemöglichkeiten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-reiseziel",
+          "front": "das Reiseziel",
+          "back": "travel destination"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-richtung",
+          "front": "die Richtung",
+          "back": "direction | Plural: Richt; ungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-ruckfahrt",
+          "front": "die Rückfahrt",
+          "back": "return journey | Plural: Rückfahrten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-in",
+          "front": "der/die /in",
+          "back": "conductor"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-schild",
+          "front": "das Schild",
+          "back": "sign | Plural: Schilder"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-schwarzfahren",
+          "front": "schwarzfahren",
+          "back": "to fare-dodge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-schwierig",
+          "front": "schwierig",
+          "back": "difficult"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-serviceschalter",
+          "front": "der Serviceschalter",
+          "back": "service counter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-sondern",
+          "front": "sondern",
+          "back": "but"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-sparen",
+          "front": "sparen",
+          "back": "to save"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-station",
+          "front": "die Station",
+          "back": "station"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-storung",
+          "front": "die Störung",
+          "back": "disruption | Plural: Störungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-strafe",
+          "front": "die Strafe",
+          "back": "penalty | Plural: Strafen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-strecke",
+          "front": "die Strecke",
+          "back": "route | Plural: Strecken"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-umsteigen",
+          "front": "umsteigen",
+          "back": "to change trains"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-umwelt",
+          "front": "die Umwelt",
+          "back": "environment"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-unterwegs",
+          "front": "unterwegs",
+          "back": "en route"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-verbindung",
+          "front": "die Verbindung",
+          "back": "connection | Plural: Verbindungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-verehrt-verehrte",
+          "front": "verehrt, verehrte",
+          "back": "“dear” | Example: „Verehrte Fahrgäste, achten Sie bitte auf die Durchsagen!“"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-verpassen",
+          "front": "verpassen",
+          "back": "to miss"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-verschlafen",
+          "front": "verschlafen",
+          "back": "to oversleep"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-verspatet",
+          "front": "verspätet",
+          "back": "late"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-verspatung",
+          "front": "die Verspätung",
+          "back": "delay | Plural: Verspätungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-vorsicht",
+          "front": "die Vorsicht",
+          "back": "caution"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-wenig",
+          "front": "wenig",
+          "back": "little"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-wohl",
+          "front": "wohl",
+          "back": "probably"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-zeitschrift",
+          "front": "die Zeitschrift",
+          "back": "magazine | Plural: Zeitschriften"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-2-zoo",
+          "front": "der Zoo",
+          "back": "zoo"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-1-lesson-3",
+      "name": "Einfach gut A2.1 - Lektion 3: Unsere neue Wohnung",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.1. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.1_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ablesen",
+          "front": "ablesen",
+          "back": "to read from"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ablesung",
+          "front": "die Ablesung",
+          "back": "reading"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-abstellen",
+          "front": "abstellen",
+          "back": "to park, to put down | Example: Wir stellen das Fahrrad in der Garage ab."
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-afrikanisch",
+          "front": "afrikanisch",
+          "back": "African"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-altglas",
+          "front": "das Altglas",
+          "back": "waste glass"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-aufschlieen",
+          "front": "aufschließen",
+          "back": "to unlock"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ausfuhren",
+          "front": "ausführen",
+          "back": "to execute"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ausgeben",
+          "front": "ausgeben",
+          "back": "to spend"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ausziehen",
+          "front": "ausziehen",
+          "back": "to move out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-beachten",
+          "front": "beachten",
+          "back": "to consider"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-bedeuten",
+          "front": "bedeuten",
+          "back": "to mean"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-beinbruch",
+          "front": "der Beinbruch",
+          "back": "le | Example: g fracture"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-berufstatig",
+          "front": "berufstätig",
+          "back": "employed"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-beschwerde",
+          "front": "die Beschwerde",
+          "back": "complaint | Plural: Beschwerden"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-besichtigen",
+          "front": "besichtigen",
+          "back": "to visit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-bezirk",
+          "front": "der Bezirk",
+          "back": "district"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-biomull",
+          "front": "der Biomüll",
+          "back": "biowaste"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-biotonne",
+          "front": "die Biotonne",
+          "back": "biowaste container"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-brett",
+          "front": "das Brett",
+          "back": "board"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-briefkasten",
+          "front": "der Briefkasten",
+          "back": "mailbox | Plural: Briefkästen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-darum",
+          "front": "darum",
+          "back": "therefore"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-dass",
+          "front": "dass",
+          "back": "that"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ecke",
+          "front": "die Ecke",
+          "back": "corner"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-einbaukuche",
+          "front": "die Einbauküche",
+          "back": "built-in kitchen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-einrichten",
+          "front": "einrichten",
+          "back": "to furnish"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-einweihungsparty",
+          "front": "die Einweihungsparty",
+          "back": "housewarming party"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-einwurfzeit",
+          "front": "die Einwurfzeit",
+          "back": "time slot for putting out rubbish | Plural: Einwurfzeiten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-einziehen",
+          "front": "einziehen",
+          "back": "to move in"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-einzug",
+          "front": "der Einzug",
+          "back": "move in"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-entsorgen",
+          "front": "entsorgen",
+          "back": "to dispose of"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-erfolgen",
+          "front": "erfolgen",
+          "back": "to take place"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-fahrradstander",
+          "front": "der Fahrradständer",
+          "back": "bicycle stand"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-fernwarme",
+          "front": "die Fernwärme",
+          "back": "remote heating"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-gas",
+          "front": "das Gas",
+          "back": "gas"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-gassi-gehen",
+          "front": "Gassi gehen",
+          "back": "to walk the dog | Example: Pablo geht mit seinem Hund Gassi."
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-gehoren",
+          "front": "gehören",
+          "back": "to belong"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-gesondert",
+          "front": "gesondert",
+          "back": "separate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-glascontainer",
+          "front": "der Glascontainer",
+          "back": "bottle bank"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ner-in",
+          "front": "der/die ner/in",
+          "back": "house resident"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-er-in",
+          "front": "der/die er/in",
+          "back": "caretaker"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hausordnung",
+          "front": "die Hausordnung",
+          "back": "house rules"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hausregel",
+          "front": "die Hausregel",
+          "back": "house rule | Plural: Hausregeln"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hausreinigung",
+          "front": "die Hausreinigung",
+          "back": "house cleaning"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hausverwaltung",
+          "front": "die Hausverwaltung",
+          "back": "property management"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-herzlich",
+          "front": "herzlich",
+          "back": "warm"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hoch",
+          "front": "hoch",
+          "back": "high"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hof",
+          "front": "Hof",
+          "back": "ya rd"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-hoffen",
+          "front": "hoffen",
+          "back": "to hope"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-jemand",
+          "front": "jemand",
+          "back": "someone"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-kellerzugang",
+          "front": "der Kellerzugang",
+          "back": "cellar entrance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-kinderwagen",
+          "front": "der Kinderwagen",
+          "back": "baby buggy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-kleinmobel-pl",
+          "front": "die Kleinmöbel (Pl.)",
+          "back": "small pieces of furniture"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-kommode",
+          "front": "die Kommode",
+          "back": "dresser"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-kundigen",
+          "front": "kündigen",
+          "back": "to terminate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-legen",
+          "front": "legen",
+          "back": "to lay"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-leidtun",
+          "front": "leidtun",
+          "back": "to be sorry | Example: Es tut mir leid."
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-in",
+          "front": "der/die /in",
+          "back": "supplier"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-liefern",
+          "front": "liefern",
+          "back": "to supply"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-er-in-2",
+          "front": "der/die er/in",
+          "back": "roommate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-mitteilung",
+          "front": "die Mitteilung",
+          "back": "notification"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-mullabfuhr",
+          "front": "die Müllabfuhr",
+          "back": "garbage d | Example: isposal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-nachbarschaft",
+          "front": "die Nachbarschaft",
+          "back": "neighbourhood"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-nachricht",
+          "front": "die Nachricht",
+          "back": "message"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-nachtisch",
+          "front": "der Nachtisch",
+          "back": "dessert"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-nahe",
+          "front": "die Nähe",
+          "back": "proximity"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ordnungsgerecht",
+          "front": "ordnungsgerecht",
+          "back": "properly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-privat",
+          "front": "privat",
+          "back": "private"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-reichlich",
+          "front": "reichlich",
+          "back": "abundant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-restmull",
+          "front": "der Restmüll",
+          "back": "residual waste"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-schlielich",
+          "front": "schließlich",
+          "back": "finally"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-schonen",
+          "front": "schonen",
+          "back": "to treat with care"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-setzen",
+          "front": "setzen",
+          "back": "to sit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-sogar",
+          "front": "sogar",
+          "back": "even"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-sorgen",
+          "front": "sorgen",
+          "back": "to care"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-sorgfaltig",
+          "front": "sorgfältig",
+          "back": "thoroughly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-spaziergang",
+          "front": "Spaziergang",
+          "back": "walk"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-spiegel",
+          "front": "der Spiegel",
+          "back": "mirror"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-stellplatz",
+          "front": "der Stellplatz",
+          "back": "parking space | Plural: Stellplätze"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-tiefgarage",
+          "front": "die Tiefgarage",
+          "back": "underground garage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-tonne",
+          "front": "die Tonne",
+          "back": "barrel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-trennen",
+          "front": "trennen",
+          "back": "to separate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-treppe",
+          "front": "die Treppe",
+          "back": "stairs"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-treppenhaus",
+          "front": "das Treppenhaus",
+          "back": "stairway"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-ubernehmen",
+          "front": "übernehmen",
+          "back": "to assume"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-umziehen",
+          "front": "umziehen",
+          "back": "to move"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-umzug",
+          "front": "der Umzug",
+          "back": "move"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-umzugskarton",
+          "front": "der Umzugskarton",
+          "back": "moving box | Plural: Umzugskartons"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-va-s-e",
+          "front": "die Va s e",
+          "back": "vase | Plural: Vasen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-verbraucherzahler",
+          "front": "der Verbraucherzähler",
+          "back": "consumption meter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-vereinbaren",
+          "front": "vereinbaren",
+          "back": "to arrange"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-in-2",
+          "front": "der/die /in",
+          "back": "landlord"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-vermieten",
+          "front": "vermieten",
+          "back": "to let"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-vorhanden",
+          "front": "vorhanden",
+          "back": "available"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-wegen",
+          "front": "wegen",
+          "back": "due to"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-weil",
+          "front": "weil",
+          "back": "because"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-weiterhin",
+          "front": "weiterhin",
+          "back": "still"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-wohngemeinschaft",
+          "front": "die Wohngemeinschaft",
+          "back": "flat share"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-wohnungsbesichtigung",
+          "front": "die Wohnungsbesichtigung",
+          "back": "flat viewing"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-wunsch",
+          "front": "der Wunsch",
+          "back": "wish | Plural: Wünsche"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-zahler",
+          "front": "der Zähler",
+          "back": "meter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-zugang",
+          "front": "der Zugang",
+          "back": "entry | Plural: Zugänge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-zuletzt",
+          "front": "zuletzt",
+          "back": "recently"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-3-zuzuglich",
+          "front": "zuzüglich",
+          "back": "plus"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-1-lesson-4",
+      "name": "Einfach gut A2.1 - Lektion 4: Auf dem Amt",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.1. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.1_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-abgeben",
+          "front": "abgeben",
+          "back": "to submit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-ablehnen",
+          "front": "ablehnen",
+          "back": "to refuse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-abmelden",
+          "front": "abmelden",
+          "back": "to deregister"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-abmeldung",
+          "front": "die Abmeldung",
+          "back": "deregistration"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-ahnlich",
+          "front": "ähnlich",
+          "back": "similar"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-amt",
+          "front": "das Amt",
+          "back": "office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-amtsdeutsch",
+          "front": "das Amtsdeutsch",
+          "back": "official German"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-andern",
+          "front": "ändern",
+          "back": "to change"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-e-angehorigen",
+          "front": "der/die e Angehörigen",
+          "back": "relative"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-ankreuzen",
+          "front": "ankreuzen",
+          "back": "to mark with a cross"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-anschrift",
+          "front": "die Anschrift",
+          "back": "address"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-antrag",
+          "front": "der Antrag",
+          "back": "application | Plural: Anträge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-ller-in",
+          "front": "der/die ller/in",
+          "back": "applicant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-arbeitsagentur",
+          "front": "die Arbeitsagentur",
+          "back": "employment agency"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-arbeitserlaubnis",
+          "front": "die Arbeitserlaubnis",
+          "back": "work permit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-arbeitslosengeld",
+          "front": "das Arbeitslosengeld",
+          "back": "unemployment benefit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-arbeitsplatz",
+          "front": "der Arbeitsplatz",
+          "back": "workplace | Plural: Arbeitsplätze"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-arbeitsvermittlung",
+          "front": "die Arbeitsvermittlung",
+          "back": "employment service"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-aufenthalt",
+          "front": "der Aufenthalt",
+          "back": "stay"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-aufenthaltserlaubnis",
+          "front": "die Aufenthaltserlaubnis",
+          "back": "residence permit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-aufrufen",
+          "front": "aufrufen",
+          "back": "to call up"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-ausbildungsplatz",
+          "front": "der Ausbildungsplatz",
+          "back": "training place"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-auslanderamt",
+          "front": "das Ausländeramt",
+          "back": "immigration office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-auslanderbehorde",
+          "front": "die Ausländerbehörde",
+          "back": "immigration authorities"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-ausweis",
+          "front": "der Ausweis",
+          "back": "ID (identification document)"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-beantragen",
+          "front": "beantragen",
+          "back": "to apply for"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-bearbeiten",
+          "front": "bearbeiten",
+          "back": "to edit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-behorde",
+          "front": "die Behörde",
+          "back": "authorities"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-berufsberatung",
+          "front": "die Berufsberatung",
+          "back": "career guidance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-berufsinformationszentrum",
+          "front": "das Berufsinformationszentrum",
+          "back": "career information centre"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-dabei",
+          "front": "dabei",
+          "back": "thereby"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-dokument",
+          "front": "das Dokument",
+          "back": "document"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-r-in",
+          "front": "der/die r/in",
+          "back": "spouse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-eheschlieung",
+          "front": "die Eheschließung",
+          "back": "marriage | Plural: Eheschließungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-einwohnermeldeamt",
+          "front": "das Einwohnermeldeamt",
+          "back": "registration office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-enkelkind",
+          "front": "das Enkelkind",
+          "back": "grandchild | Plural: Enkelkinder"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-entschuldigen",
+          "front": "entschuldigen",
+          "back": "to excuse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-familienbuch",
+          "front": "das Familienbuch",
+          "back": "family register"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-familienkasse",
+          "front": "die Familienkasse",
+          "back": "family class"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-familienmitglied",
+          "front": "das Familienmitglied",
+          "back": "family member | Plural: Familienmitglieder"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-fehlen",
+          "front": "fehlen",
+          "back": "to miss"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-finanzamt",
+          "front": "das Finanzamt",
+          "back": "tax office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geburt",
+          "front": "die Geburt",
+          "back": "birth | Plural: Geburten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geburtsdatum",
+          "front": "das Geburtsdatum",
+          "back": "date of birth | Plural: Geburtsdaten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geburtsland",
+          "front": "das Geburtsland",
+          "back": "country of birth"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geburtsname",
+          "front": "der Geburtsname",
+          "back": "name at birth"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geburtsort",
+          "front": "der Geburtsort",
+          "back": "birth"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geburtsurkunde",
+          "front": "die Geburtsurkunde",
+          "back": "birth certificate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-genehmigen",
+          "front": "genehmigen",
+          "back": "to approve"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-geschlecht",
+          "front": "das Geschlecht",
+          "back": "gender | Plural: Geschlechter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-herein",
+          "front": "herein",
+          "back": "within"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-hingehen",
+          "front": "hingehen",
+          "back": "to go there"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-integration",
+          "front": "die Integration",
+          "back": "integration"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-integrationskurs",
+          "front": "der Integrationskurs",
+          "back": "integration course"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-kindergeld",
+          "front": "das Kindergeld",
+          "back": "child allowance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-tner-in",
+          "front": "der/die tner/in",
+          "back": "life partner"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-lichtbildausweis",
+          "front": "der Lichtbildausweis",
+          "back": "photo ID"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-losfahren",
+          "front": "losfahren",
+          "back": "to drive away"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-mannlich",
+          "front": "männlich",
+          "back": "male"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-nichte",
+          "front": "die Nichte",
+          "back": "niece | Plural: Nichten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-notieren",
+          "front": "notieren",
+          "back": "to note"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-personalausweis",
+          "front": "der Personalausweis",
+          "back": "personal ID"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-reisepass",
+          "front": "der Reisepass",
+          "back": "passport | Plural: Reisepässe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-schwiegereltern-pl",
+          "front": "die Schwiegereltern (Pl.)",
+          "back": "parents-in-law"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-staatsangehorigkeit",
+          "front": "die Staatsangehörigkeit",
+          "back": "nationality"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-te-a-m",
+          "front": "das Te a m",
+          "back": "team"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-teil",
+          "front": "der Teil",
+          "back": "part"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-unterlagen-pl",
+          "front": "die Unterlagen (Pl.)",
+          "back": "documents"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-unterschreiben",
+          "front": "unterschreiben",
+          "back": "to sign"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-urkunde",
+          "front": "die Urkunde",
+          "back": "certificate | Plural: U; rkunden"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-vollstandig",
+          "front": "vollständig",
+          "back": "complete"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-webseite",
+          "front": "die Webseite",
+          "back": "website | Plural: Webseiten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-weiblich",
+          "front": "weiblich",
+          "back": "female"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-wiederholen",
+          "front": "wiederholen",
+          "back": "to repeat"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-zulassungsstelle",
+          "front": "die Zulassungsstelle",
+          "back": "admission office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-4-zustandig",
+          "front": "zuständig",
+          "back": "responsible"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-1-lesson-5",
+      "name": "Einfach gut A2.1 - Lektion 5: Schule, und dann?",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.1. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.1_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-abitur-abi",
+          "front": "das Abitur (Abi)",
+          "back": "A-level"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-ablegen",
+          "front": "ablegen",
+          "back": "to take (an exam) | Example: eine Prüfung ablegen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-abschlieen",
+          "front": "abschließen",
+          "back": "to complete"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-abschluss",
+          "front": "der Abschluss",
+          "back": "degree | Plural: Abschlüsse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-anbieten",
+          "front": "anbieten",
+          "back": "to offer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-in",
+          "front": "der/die in",
+          "back": "beginner"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-architektur",
+          "front": "die Architektur",
+          "back": "architecture"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-ausland",
+          "front": "das Ausland",
+          "back": "abroad"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-autounfall",
+          "front": "der Autounfall",
+          "back": "car accident | Plural: Autounfälle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-beenden",
+          "front": "beenden",
+          "back": "to end"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-beratung",
+          "front": "die Beratung",
+          "back": "counselling"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-bereich",
+          "front": "der Bereich",
+          "back": "a rea"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-berufsausbildung",
+          "front": "die Berufsausbildung",
+          "back": "professional training"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-berufsschule",
+          "front": "die Berufsschule",
+          "back": "vocational college"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-besonders",
+          "front": "besonders",
+          "back": "especially"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-bildungsweg",
+          "front": "der Bildungsweg",
+          "back": "course of education"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-buroorganisation",
+          "front": "die Büroorganisation",
+          "back": "office administration"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-chaos",
+          "front": "das Chaos",
+          "back": "chaos"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-decke",
+          "front": "die Decke",
+          "back": "ceiling"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-ende",
+          "front": "das Ende",
+          "back": "end"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-energie",
+          "front": "die Energie",
+          "back": "energy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-enthalten",
+          "front": "enthalten",
+          "back": "to contain"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-entscheiden",
+          "front": "entscheiden",
+          "back": "to decide"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-erforderlich",
+          "front": "erforderlich",
+          "back": "required"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-fitness",
+          "front": "die Fitness",
+          "back": "fitness"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-fliehen",
+          "front": "fliehen",
+          "back": "to flee"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-fortgeschritten",
+          "front": "fortgeschritten",
+          "back": "advanced"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-genial",
+          "front": "genial",
+          "back": "great"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-hoffentlich",
+          "front": "hoffentlich",
+          "back": "hopefully"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-jobben",
+          "front": "jobben",
+          "back": "to do casual/part-time work"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kategorie",
+          "front": "die Kategorie",
+          "back": "category | Plural: Kategorien"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kaufmannisch",
+          "front": "kaufmännisch",
+          "back": "business"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kenntnisse-pl",
+          "front": "die Kenntnisse (Pl.)",
+          "back": "knowledge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kommunikation",
+          "front": "die Kommunikation",
+          "back": "communication"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kompakt",
+          "front": "kompakt",
+          "back": "compact"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kurzen",
+          "front": "kürzen",
+          "back": "to shorten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kursgebuhr",
+          "front": "die Kursgebühr",
+          "back": "course fee"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-kurzprogramm",
+          "front": "das Kurzprogramm",
+          "back": "short program"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-lebensweg",
+          "front": "der Lebensweg",
+          "back": "journey through life | Plural: Lebenswege"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-lehre",
+          "front": "die Lehre",
+          "back": "apprenticeship"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-lehrmaterial",
+          "front": "das Lehrmaterial",
+          "back": "teaching material"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-material",
+          "front": "das Material",
+          "back": "material"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-miserabel",
+          "front": "miserabel",
+          "back": "miserable"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-mittlere",
+          "front": "mittlere",
+          "back": "middle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-prost",
+          "front": "das Prost",
+          "back": "Cheers!"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-prufung",
+          "front": "die Prüfung",
+          "back": "exam"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-prufungstraining",
+          "front": "das Prüfungstraining",
+          "back": "exam training"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-realschulabschluss",
+          "front": "der Realschulabschluss",
+          "back": "secondary school certificate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-reisen",
+          "front": "reisen",
+          "back": "to travel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-rhythmisch",
+          "front": "rhythmisch",
+          "back": "rhythmical"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-schaffen",
+          "front": "schaffen",
+          "back": "to succeed"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-schulzeit",
+          "front": "die Schulzeit",
+          "back": "school days"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-seit",
+          "front": "seit",
+          "back": "since"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-semester",
+          "front": "das Semester",
+          "back": "term | Plural: Semester"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-separat",
+          "front": "separat",
+          "back": "separate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-situation",
+          "front": "die Situation",
+          "back": "situation | Plural: Situatio; nen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-stadtisch",
+          "front": "städtisch",
+          "back": "urban"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-terminplanung",
+          "front": "die Terminplanung",
+          "back": "scheduling"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-test",
+          "front": "der Test",
+          "back": "test | Plural: Tests"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-thema",
+          "front": "das Thema",
+          "back": "topic | Plural: Themen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-theorie",
+          "front": "die Theorie",
+          "back": "theory"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-trainieren",
+          "front": "trainieren",
+          "back": "to train"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-training",
+          "front": "das Training",
+          "back": "training"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-trick",
+          "front": "der Trick",
+          "back": "trick | Plural: Tricks"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-uberraschung",
+          "front": "die Überraschung",
+          "back": "surprise | Plural: Überraschungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-uberschrift",
+          "front": "die Überschrift",
+          "back": "heading | Plural: Überschriften"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-umschreiben",
+          "front": "umschreiben",
+          "back": "to re-write"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-verlieben",
+          "front": "verlieben",
+          "back": "to fall in love"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-verlieren",
+          "front": "verlieren",
+          "back": "to lose"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-vorbereitung",
+          "front": "Vorbereitung",
+          "back": "preparation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-vorkenntnisse-pl",
+          "front": "die Vorkenntnisse (Pl.)",
+          "back": "prior knowledge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-vorstellungsgesprach",
+          "front": "das Vorstellungsgespräch",
+          "back": "interview"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-weiterbildung",
+          "front": "die Weiterbildung",
+          "back": "further training | Plural: Weiterbildungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-yo-g-a",
+          "front": "das Yo g a",
+          "back": "yoga"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-zeitmanagement",
+          "front": "das Zeitmanagement",
+          "back": "time management"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-zertifikat",
+          "front": "das Zertifikat",
+          "back": "certificate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-zeugnis",
+          "front": "das Zeugnis",
+          "back": "certificate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-5-zufrieden",
+          "front": "zufrieden",
+          "back": "satisfied"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-1-lesson-6",
+      "name": "Einfach gut A2.1 - Lektion 6: Auf Arbeitssuche",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.1. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.1_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-artner-in",
+          "front": "der/die artner/in",
+          "back": "contact person"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-aushilfsjob",
+          "front": "der Aushilfsjob",
+          "back": "temporary job"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-aussehen",
+          "front": "aussehen",
+          "back": "to look"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-achverkaufer-in",
+          "front": "der/die achverkäufer/in",
+          "back": "baker's assistant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-bedanken",
+          "front": "bedanken",
+          "back": "to thank"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-bedienen",
+          "front": "bedienen",
+          "back": "to serve"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-beeilen",
+          "front": "beeilen",
+          "back": "to hurry"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-begrunden",
+          "front": "begründen",
+          "back": "to justify"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-beratungsgesprach",
+          "front": "das Beratungsgespräch",
+          "back": "consultation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-berufsfeld",
+          "front": "das Berufsfeld",
+          "back": "field of work | Plural: Berufsfelder"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-in",
+          "front": "der/die in",
+          "back": "applicant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-bieten",
+          "front": "bieten",
+          "back": "to offer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-eindecken",
+          "front": "eindecken",
+          "back": "to inundate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-genug",
+          "front": "genug",
+          "back": "enough"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-grundschule",
+          "front": "Grundschule",
+          "back": "primary school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-handwerklich",
+          "front": "handwerklich",
+          "back": "manual"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-holz",
+          "front": "das Holz",
+          "back": "wood"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-ker-in",
+          "front": "der/die ker/in",
+          "back": "IT technician"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-kneipe",
+          "front": "die Kneipe",
+          "back": "pub"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-kostenfrei",
+          "front": "kostenfrei",
+          "back": "free of charge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-kuchenhilfe",
+          "front": "die Küchenhilfe",
+          "back": "kitchen assistant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-laufbahn",
+          "front": "die Laufbahn",
+          "back": "career path"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-lebenslauf",
+          "front": "der Lebenslauf",
+          "back": "CV | Plural: Lebensläufe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-luckenlos",
+          "front": "lückenlos",
+          "back": "seamless"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-melden",
+          "front": "melden",
+          "back": "to notify"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-mittelschule",
+          "front": "die Mittelschule",
+          "back": "secondary school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-ner-in",
+          "front": "der/die ner/in",
+          "back": "fashion designer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-muster",
+          "front": "das Muster",
+          "back": "pattern"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-notig",
+          "front": "nötig",
+          "back": "necessary"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-ob",
+          "front": "ob",
+          "back": "whether"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-personlich",
+          "front": "persönlich",
+          "back": "personal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-professionell",
+          "front": "professionell",
+          "back": "pr | Example: ofessional"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-reinigungsarbeiten-pl",
+          "front": "die Reinigungsarbeiten (Pl.)",
+          "back": "cleaning jobs"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-rente",
+          "front": "die Rente",
+          "back": "retirement | Plural: Renten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-tfachmann-frau",
+          "front": "der/die tfachmann/-frau",
+          "back": "restaurant specialist"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-spezial",
+          "front": "spezial",
+          "back": "special"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-statt",
+          "front": "statt",
+          "back": "instead"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-stelle",
+          "front": "die Stelle",
+          "back": "position"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-stellenangebot",
+          "front": "das Stellenangebot",
+          "back": "job offer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-stellensuche",
+          "front": "die Stellensuche",
+          "back": "job search"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-struktur",
+          "front": "die Struktur",
+          "back": "structure"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-sympathisch",
+          "front": "sympathisch",
+          "back": "kind"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-teilzeit",
+          "front": "die Teilzeit",
+          "back": "part-time"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-teilzeitstelle",
+          "front": "die Teilzeitstelle",
+          "back": "part-time position"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-tippen",
+          "front": "tippen",
+          "back": "to type"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-tippfehler",
+          "front": "der Tippfehler",
+          "back": "t | Example: yping error"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-in-2",
+          "front": "der/die in",
+          "back": "carpenter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-uben",
+          "front": "üben",
+          "back": "to practice"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-ubersiedlung",
+          "front": "die Übersiedlung",
+          "back": "relocation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-unprofessionell",
+          "front": "unprofessionell",
+          "back": "unprofessional"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-unsympathisch",
+          "front": "unsympathisch",
+          "back": "unkind"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-unzufrieden",
+          "front": "unzufrieden",
+          "back": "unsatisfied"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-verruckt",
+          "front": "verrückt",
+          "back": "crazy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-volleyball",
+          "front": "das Volleyball",
+          "back": "volleyball"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-vollzeit",
+          "front": "die Vollzeit",
+          "back": "full-time"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-vollzeitstelle",
+          "front": "die Vollzeitstelle",
+          "back": "full-time position"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-voraussetzung",
+          "front": "die Voraussetzung",
+          "back": "requirement | Plural: Voraussetzungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-vorlage",
+          "front": "die Vorlage",
+          "back": "template | Plural: Vorlagen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-1-lesson-6-zuverlassig",
+          "front": "zuverlässig",
+          "back": "reliable"
+        }
+      ]
+    }
+  ]
+}
