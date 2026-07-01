@@ -1,0 +1,2806 @@
+{
+  "decks": [
+    {
+      "id": "seed-einfach-gut-a2-2-lesson-7",
+      "name": "Einfach gut A2.2 - Lektion 7: Ein Einkaufsbummel",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.2. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.2_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-accessoires-pl",
+          "front": "die Accessoires (Pl.)",
+          "back": "accessories"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-anhaben",
+          "front": "anhaben",
+          "back": "to be wearing"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-apfelschorle",
+          "front": "die Apfelschorle",
+          "back": "apple spritzer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-aubergine",
+          "front": "die Aubergine",
+          "back": "aubergine | Plural: Auberginen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-ausrustung",
+          "front": "die Ausrüstung",
+          "back": "equipment"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-babyartikel",
+          "front": "der Babyartikel",
+          "back": "baby items | Plural: Babyartikel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-badesachen-pl",
+          "front": "die Badesachen (Pl.)",
+          "back": "swimwear"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-bart",
+          "front": "der Bart",
+          "back": "beard | Plural: Bärte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-bekleidung",
+          "front": "die Bekleidung",
+          "back": "clothing"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-bestimmt",
+          "front": "bestimmt",
+          "back": "surely | Example: Der Mantel ist bestimmt sehr teuer."
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-blond",
+          "front": "blond",
+          "back": "blond"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-braten",
+          "front": "braten",
+          "back": "to roast"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-bummeln",
+          "front": "bummeln",
+          "back": "to stroll"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-bunt",
+          "front": "bunt",
+          "back": "colourful"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-camping",
+          "front": "das Camping",
+          "back": "camping"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-champignon",
+          "front": "der Champignon",
+          "back": "mushroom | Plural: Champignons"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-currywurst",
+          "front": "die Currywurst",
+          "back": "currywurst"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-dame",
+          "front": "die Dame",
+          "back": "lady | Plural: Damen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-darin",
+          "front": "darin",
+          "back": "in it"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-dick",
+          "front": "dick",
+          "back": "fat"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-ding",
+          "front": "das Ding",
+          "back": "thing | Plural: Dinge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-duft",
+          "front": "der Duft",
+          "back": "smell"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-dunn",
+          "front": "dünn",
+          "back": "thin"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-duschgel",
+          "front": "das Duschgel",
+          "back": "shower gel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-egal",
+          "front": "egal",
+          "back": "equal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-ehepaar",
+          "front": "das Ehepaar",
+          "back": "married couple"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-einfarbig",
+          "front": "einfarbig",
+          "back": "monochromatic"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-elektronik",
+          "front": "die Elektronik",
+          "back": "electronics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-fahrradhelm",
+          "front": "der Fahrradhelm",
+          "back": "cycle helmet"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-fantastisch",
+          "front": "fantastisch",
+          "back": "fantastic"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-fast-food",
+          "front": "das Fast Food",
+          "back": "fast food"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-flipflops-pl",
+          "front": "die Flipflops (Pl.)",
+          "back": "flip flops"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-frittieren",
+          "front": "frittieren",
+          "back": "to fry"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gemuselasagne",
+          "front": "die Gemüselasagne",
+          "back": "vegetable lasagne"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gepunktet",
+          "front": "gepunktet",
+          "back": "spotty"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gericht",
+          "front": "das Gericht",
+          "back": "meal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gestreift",
+          "front": "gestreift",
+          "back": "striped"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-glatt",
+          "front": "glatt",
+          "back": "smooth"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-glatze",
+          "front": "die Glatze",
+          "back": "bald head"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gold",
+          "front": "das Gold",
+          "back": "gold"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-griechisch",
+          "front": "griechisch",
+          "back": "Greek"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gulaschsuppe",
+          "front": "die Gulaschsuppe",
+          "back": "goulash soup"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-gurtel",
+          "front": "der Gürtel",
+          "back": "belt"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-haarpflege",
+          "front": "die Haarpflege",
+          "back": "hair care"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-hauptgericht",
+          "front": "das Hauptgericht",
+          "back": "main meal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-hautpflege",
+          "front": "die Hautpflege",
+          "back": "skin care"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-hubsch",
+          "front": "hübsch",
+          "back": "pretty"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-kamera",
+          "front": "die Kamera",
+          "back": "camera"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-kariert",
+          "front": "kariert",
+          "back": "checkered"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-kompliment",
+          "front": "das Kompliment",
+          "back": "compliment | Plural: Komplimente"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-kopfhorer",
+          "front": "der Kopfhörer",
+          "back": "headphones"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-kosmetiktasche",
+          "front": "die Kosmetiktasche",
+          "back": "cosmetic bag"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-krawatte",
+          "front": "die Krawatte",
+          "back": "tie"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-kuchengerat",
+          "front": "das Küchengerät",
+          "back": "kitchen appliance | Plural: Küchengeräte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-laufen",
+          "front": "laufen",
+          "back": "to run"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-lieblingsfarbe",
+          "front": "die Lieblingsfarbe",
+          "back": "favourite colour"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-lockig",
+          "front": "lockig",
+          "back": "curly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-make-up",
+          "front": "das Make-up",
+          "back": "make up"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-maus",
+          "front": "die Maus",
+          "back": "mouse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-mineralwasser",
+          "front": "das Mineralwasser",
+          "back": "mineral water"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-modegeschaft",
+          "front": "das Modegeschäft",
+          "back": "fashion shop"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-modeschmuck",
+          "front": "der Modeschmuck",
+          "back": "fashion jewellry"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-nachher",
+          "front": "nachher",
+          "back": "afterwards"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-naturkosmetik",
+          "front": "die Naturkosmetik",
+          "back": "natural cosmetics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-navigationsgerat-navi",
+          "front": "das Navigationsgerät (Navi)",
+          "back": "navigation device"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-ofen",
+          "front": "der Ofen",
+          "back": "oven"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-ohrring",
+          "front": "der Ohrring",
+          "back": "earring | Plural: Ohrringe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-parfumerie",
+          "front": "die Parfümerie",
+          "back": "perfumery"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-pfanne",
+          "front": "die Pfanne",
+          "back": "pan"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-plotzlich",
+          "front": "plötzlich",
+          "back": "suddenly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-in",
+          "front": "der/die in",
+          "back": "policeman"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schafskase",
+          "front": "der Schafskäse",
+          "back": "feta cheese"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-scharf",
+          "front": "scharf",
+          "back": "spicy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schauen",
+          "front": "schauen",
+          "back": "to look"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schaufenster",
+          "front": "das Schaufenster",
+          "back": "shop window"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schick",
+          "front": "schick",
+          "back": "chic"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schlank",
+          "front": "schlank",
+          "back": "slim"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schmuck",
+          "front": "der Schmuck",
+          "back": "jewellry"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schnappchen",
+          "front": "das Schnäppchen",
+          "back": "deal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schnitzel",
+          "front": "das Schnitzel",
+          "back": "schnitzel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schnurrbart",
+          "front": "der Schnurrbart",
+          "back": "moustache"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schrei",
+          "front": "der Schrei",
+          "back": "scream"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-schuhgroe",
+          "front": "die Schuhgröße",
+          "back": "shoe size"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-shorts",
+          "front": "die Shorts",
+          "back": "shorts"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-silber",
+          "front": "das Silber",
+          "back": "silver"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-snack",
+          "front": "der Snack",
+          "back": "snack | Plural: Snacks"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-spielwaren-pl",
+          "front": "die Spielwaren (Pl.)",
+          "back": "toys"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-steak",
+          "front": "das Steak",
+          "back": "steak"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-stehlen",
+          "front": "stehlen",
+          "back": "to steal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-stiefel",
+          "front": "der Stiefel",
+          "back": "boot | Plural: Stiefel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-suigkeiten",
+          "front": "die Süßigkeiten",
+          "back": "sweets"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-tattoo",
+          "front": "das Tattoo",
+          "back": "tattoo | Plural: Tattoos"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-toaster",
+          "front": "der Toaster",
+          "back": "toaster"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-ungarisch",
+          "front": "ungarisch",
+          "back": "Hungarian"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-unterwasche",
+          "front": "die Unterwäsche",
+          "back": "underwear"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-vanilleeis",
+          "front": "das Vanilleeis",
+          "back": "vanilla ice cream"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-r-in",
+          "front": "der/die r/in",
+          "back": "vegetarian"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-vegetarisch",
+          "front": "vegetarisch",
+          "back": "vegetarian"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-wandern",
+          "front": "wandern",
+          "back": "to hike"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-wanderschuh",
+          "front": "der Wanderschuh",
+          "back": "hiking shoes | Plural: Wanderschuhe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-wecker",
+          "front": "der Wecker",
+          "back": "alarm"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-wirklich",
+          "front": "wirklich",
+          "back": "really"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-wunderbar",
+          "front": "wunderbar",
+          "back": "wonderful"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-zubereiten",
+          "front": "zubereiten",
+          "back": "to prepare"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-7-zucchini",
+          "front": "die Zucchini",
+          "back": "zucchini"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-2-lesson-8",
+      "name": "Einfach gut A2.2 - Lektion 8: Bei der Arbeit",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.2. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.2_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-absetzen",
+          "front": "absetzen",
+          "back": "to distribute"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-abteilung",
+          "front": "die Abteilung",
+          "back": "department | Plural: Abteilungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-angeben",
+          "front": "angeben",
+          "back": "to indicate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-anruf",
+          "front": "der Anruf",
+          "back": "call | Plural: Anrufe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-n",
+          "front": "der/die n",
+          "back": "caller"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-er-in",
+          "front": "der/die er/in",
+          "back": "employer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-arbeitsauftrag",
+          "front": "der Arbeitsauftrag",
+          "back": "work order | Plural: Arbeitsaufträge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-arbeitsbeginn",
+          "front": "der Arbeitsbeginn",
+          "back": "start of work"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-arbeitsschutz",
+          "front": "der Arbeitsschutz",
+          "back": "occupational safety"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-arbeitsvertrag",
+          "front": "der Arbeitsvertrag",
+          "back": "work contract | Plural: Arbeitsverträge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-aufzug",
+          "front": "der Aufzug",
+          "back": "lift"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-auendienst",
+          "front": "der Außendienst",
+          "back": "sales representatives"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-ausmachen",
+          "front": "ausmachen",
+          "back": "to account for"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-te",
+          "front": "der/die te",
+          "back": "agent"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-bereit",
+          "front": "bereit",
+          "back": "ready"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-bereitstellen",
+          "front": "bereitstellen",
+          "back": "to make ready"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-besprechen",
+          "front": "besprechen",
+          "back": "to discuss"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-besprechung",
+          "front": "die Besprechung",
+          "back": "meeting"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-betatigen",
+          "front": "betätigen",
+          "back": "to operate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-betreffen",
+          "front": "betreffen",
+          "back": "to relate to"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-bewahren",
+          "front": "bewahren",
+          "back": "to save from"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-bewegen",
+          "front": "bewegen",
+          "back": "to move"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-brand",
+          "front": "der Brand",
+          "back": "fi re"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-brandbekampfung",
+          "front": "die Brandbekämpfung",
+          "back": "fire fighting"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-brandfall",
+          "front": "der Brandfall",
+          "back": "case of fire"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-brandmelder",
+          "front": "der Brandmelder",
+          "back": "fire alarm"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-brandschutz",
+          "front": "der Brandschutz",
+          "back": "fire prevention"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-brennen",
+          "front": "brennen",
+          "back": "to burn"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-buchhaltung",
+          "front": "die Buchhaltung",
+          "back": "accountant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-danken",
+          "front": "danken",
+          "back": "to thank"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-deutlich",
+          "front": "deutlich",
+          "back": "clearly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-echt",
+          "front": "echt",
+          "back": "really"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-einweisung",
+          "front": "die Einweisung",
+          "back": "instruction"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-elektrik",
+          "front": "die Elektrik",
+          "back": "electrics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-entwurf",
+          "front": "der Entwurf",
+          "back": "draft | Plural: Entwürfe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-erlauben",
+          "front": "erlauben",
+          "back": "to allow"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-erwarten",
+          "front": "erwarten",
+          "back": "to wait for"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-erwischen",
+          "front": "erwischen",
+          "back": "to catch"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-feuerloscher",
+          "front": "der Feuerlöscher",
+          "back": "fire extinguisher"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-flamme",
+          "front": "die Flamme",
+          "back": "flame | Plural: Flammen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-folgen",
+          "front": "folgen",
+          "back": "to follow"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-gefahrden",
+          "front": "gefährden",
+          "back": "to endanger"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-gestalten",
+          "front": "gestalten",
+          "back": "to design"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-gesund",
+          "front": "gesund",
+          "back": "healthy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-grafik",
+          "front": "die Grafik",
+          "back": "graphics | Plural: Grafiken"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-in",
+          "front": "der/die in",
+          "back": "graphic designer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-hektik",
+          "front": "die Hektik",
+          "back": "rush"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-heraussuchen",
+          "front": "heraussuchen",
+          "back": "to pick out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-hinfahren",
+          "front": "hinfahren",
+          "back": "to go there"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-hoflich",
+          "front": "höflich",
+          "back": "polite"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-internetzugang",
+          "front": "der Internetzugang",
+          "back": "internet access"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kabelsalat",
+          "front": "der Kabelsalat",
+          "back": "cabl | Example: e tangle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kennzeichnen",
+          "front": "kennzeichnen",
+          "back": "to mark"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kerze",
+          "front": "die Kerze",
+          "back": "candle | Plural: Kerzen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-konto",
+          "front": "das Konto",
+          "back": "account | Plural: Konten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kontoverbindung",
+          "front": "die Kontoverbindung",
+          "back": "account connection"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kopieren",
+          "front": "kopieren",
+          "back": "to copy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kraft",
+          "front": "die Kraft",
+          "back": "power | Plural: Kräfte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-kundenbetreuung",
+          "front": "die Kundenbetreuung",
+          "back": "customer support"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-laptop",
+          "front": "der Laptop",
+          "back": "laptop"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-marketing",
+          "front": "das Marketing",
+          "back": "marketing"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-mehrfachsteckdose",
+          "front": "die Mehrfachsteckdose",
+          "back": "power strip"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-mitschreiben",
+          "front": "mitschreiben",
+          "back": "to | Example: take notes"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-nachbereitung",
+          "front": "die Nachbereitung",
+          "back": "follow-up"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-nennen",
+          "front": "nennen",
+          "back": "to name"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-personalabteilung",
+          "front": "die Personalabteilung",
+          "back": "personnel department"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-personalburo",
+          "front": "das Personalbüro",
+          "back": "personnel office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-eiter-in",
+          "front": "der/die eiter/in",
+          "back": "head of personnel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-protokoll",
+          "front": "das Protokoll",
+          "back": "protocol"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-reagieren",
+          "front": "reagieren",
+          "back": "to react"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-regel",
+          "front": "die Regel",
+          "back": "rule | Plural: Regeln"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-rettungswagen",
+          "front": "der Rettungswagen",
+          "back": "ambulance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-ruckfrage",
+          "front": "die Rückfrage",
+          "back": "query"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-sekretariat",
+          "front": "das Sekretariat",
+          "back": "secretary's office"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-sicherheit",
+          "front": "die Sicherheit",
+          "back": "security"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-steckdose",
+          "front": "die Steckdose",
+          "back": "socket"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-steuer",
+          "front": "die Steuer",
+          "back": "tax"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-teelicht",
+          "front": "das Teelicht",
+          "back": "tea light | Plural: Teelichter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-uberlasten",
+          "front": "überlasten",
+          "back": "to overload"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-unburokratisch",
+          "front": "unbürokratisch",
+          "back": "unbureaucratic"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-unterstutzen",
+          "front": "unterstützen",
+          "back": "to support"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-verabschieden",
+          "front": "verabschieden",
+          "back": "to adopt"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-verbessern",
+          "front": "verbessern",
+          "back": "to improve"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-verboten",
+          "front": "verboten",
+          "back": "to forbid"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-verhalten",
+          "front": "das Verhalten",
+          "back": "behaviour"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-verlegen",
+          "front": "verlegen",
+          "back": "to reschedule"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-vermeiden",
+          "front": "vermeiden",
+          "back": "to avoid"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-vermeidung",
+          "front": "die Vermeidung",
+          "back": "avoidance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-versicherung",
+          "front": "die Versicherung",
+          "back": "insurance | Plural: Versicherungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-vertrieb",
+          "front": "der Vertrieb",
+          "back": "sales"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-verwenden",
+          "front": "verwenden",
+          "back": "to use"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-vorbeikommen",
+          "front": "vorbeikommen",
+          "back": "to drop by"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-vorbereiten",
+          "front": "vorbereiten",
+          "back": "to prepare"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-vorschrift",
+          "front": "die Vorschrift",
+          "back": "regulation | Plural: Vorschriften"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-werbeflyer",
+          "front": "der Werbeflyer",
+          "back": "flyer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-werbeagentur",
+          "front": "die Werbeagentur",
+          "back": "marketing agency"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-8-er-in-2",
+          "front": "der/die er/in",
+          "back": "copy writer"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-2-lesson-9",
+      "name": "Einfach gut A2.2 - Lektion 9: In der Schule",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.2. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.2_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-aggressiv",
+          "front": "aggressiv",
+          "back": "aggressive"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-anders",
+          "front": "anders",
+          "back": "different"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-angst",
+          "front": "die Angst",
+          "back": "fear | Plural: Ängste"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-aufhoren",
+          "front": "aufhören",
+          "back": "to stop"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-aufpassen",
+          "front": "aufpassen",
+          "back": "to watch out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-ausreichend",
+          "front": "ausreichend",
+          "back": "enough"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-befriedigend",
+          "front": "befriedigend",
+          "back": "satisfactory"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-begruung",
+          "front": "die Begrüßung",
+          "back": "greeting | Plural: Begrüßungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-beraten",
+          "front": "beraten",
+          "back": "to advise"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-bericht",
+          "front": "der Bericht",
+          "back": "report | Plural: Berichte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-berufskolleg",
+          "front": "das Berufskolleg",
+          "back": "vocational college"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-berufswunsch",
+          "front": "der Berufswunsch",
+          "back": "career aspiration"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-biologie",
+          "front": "die Biologie",
+          "back": "biology"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-bundesland",
+          "front": "das Bundesland",
+          "back": "federal state"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-chemie",
+          "front": "die Chemie",
+          "back": "chemistry"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-damals",
+          "front": "damals",
+          "back": "back then"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-dieselbe",
+          "front": "dieselbe",
+          "back": "the same"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-diplom",
+          "front": "das Diplom",
+          "back": "diploma"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-elternabend",
+          "front": "der Elternabend",
+          "back": "parent's evening"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-elternsprechtag",
+          "front": "der Elternsprechtag",
+          "back": "parent-teacher day"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-ehrer-in",
+          "front": "der/die ehrer/in",
+          "back": "English teacher"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-erdkunde",
+          "front": "die Erdkunde",
+          "back": "geography"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-etwa",
+          "front": "etwa",
+          "back": "around"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-fach",
+          "front": "das Fach",
+          "back": "subject | Plural: Fächer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-fachhochschule",
+          "front": "die Fachhochschule",
+          "back": "technical college"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-fachhochschulreife",
+          "front": "die Fachhochschulreife",
+          "back": "technical college certificate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-fluss",
+          "front": "der Fluss",
+          "back": "river | Plural: Flüsse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-formell",
+          "front": "formell",
+          "back": "formula"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-in",
+          "front": "der/die in",
+          "back": "photographer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-freiwillig",
+          "front": "freiwillig",
+          "back": "voluntary"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-gesamtschule",
+          "front": "die Gesamtschule",
+          "back": "comprehensive school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-gipsbein",
+          "front": "das Gipsbein",
+          "back": "leg in plaster"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-gluck",
+          "front": "das Glück",
+          "back": "luck"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-gymnasium",
+          "front": "das Gymnasium",
+          "back": "Grammar school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-halbjahr",
+          "front": "das Halbjahr",
+          "back": "half-year"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-hauptschule",
+          "front": "die Hauptschule",
+          "back": "secondary school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-hinfallen",
+          "front": "hinfallen",
+          "back": "to fall over"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-integrationsverein",
+          "front": "der Integrationsverein",
+          "back": "integration association"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-he",
+          "front": "der/die he",
+          "back": "youth | Plural: Jugendlichen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-junge",
+          "front": "der Junge",
+          "back": "boy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-klasse",
+          "front": "die Klasse",
+          "back": "class"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-klassenarbeit",
+          "front": "die Klassenarbeit",
+          "back": "classwork"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-hrer-in",
+          "front": "der/die hrer/in",
+          "back": "class teacher"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-knochel",
+          "front": "der Knöchel",
+          "back": "knuckle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-korb",
+          "front": "der Korb",
+          "back": "basket"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-kunst",
+          "front": "die Kunst",
+          "back": "art"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-lieblingsfach",
+          "front": "das Lieblingsfach",
+          "back": "favourite subject | Plural: Lieblingsfächer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-losen",
+          "front": "lösen",
+          "back": "to solve"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-lust",
+          "front": "die Lust",
+          "back": "desire"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-madchen",
+          "front": "das Mädchen",
+          "back": "girl | Plural: Mädchen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-mangelhaft",
+          "front": "mangelhaft",
+          "back": "unsatisfactory"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-mathearbeit",
+          "front": "die Mathearbeit",
+          "back": "maths test"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-meinung",
+          "front": "die Meinung",
+          "back": "opinion | Plural: Me; inungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-nachhilfe",
+          "front": "die Nachhilfe",
+          "back": "private tuition"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-normal",
+          "front": "normal",
+          "back": "normal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-note",
+          "front": "die Note",
+          "back": "mark | Plural: Noten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-oberschule",
+          "front": "die Oberschule",
+          "back": "secondary school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-olympisch",
+          "front": "olympisch",
+          "back": "olympic"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-pflicht",
+          "front": "die Pflicht",
+          "back": "duty"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-physik",
+          "front": "die Physik",
+          "back": "physics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-planung",
+          "front": "die Planung",
+          "back": "schedule"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-realschule",
+          "front": "die Realschule",
+          "back": "second | Example: ary modern school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-rede",
+          "front": "die Rede",
+          "back": "speech"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-religion",
+          "front": "die Religion",
+          "back": "religious studies"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-schaubild",
+          "front": "das Schaubild",
+          "back": "diagram"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-schrecklich",
+          "front": "schrecklich",
+          "back": "terrible"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-schulform",
+          "front": "die Schulform",
+          "back": "type of school"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-er-in",
+          "front": "der/die er/in",
+          "back": "headteacher"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-schulpflicht",
+          "front": "die Schulpflicht",
+          "back": "compulsory school at | Example: tendance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-schulsystem",
+          "front": "das Schulsystem",
+          "back": "school system"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-selbst",
+          "front": "selbst",
+          "back": "even"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-agoge-padagogin",
+          "front": "der/die agoge/-pädagogin",
+          "back": "social education worker"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-sportunterricht",
+          "front": "der Sportunterricht",
+          "back": "sports lessons"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-streng",
+          "front": "streng",
+          "back": "strict"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-tagesordnung",
+          "front": "die Tagesordnung",
+          "back": "daily schedule"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-teenager",
+          "front": "der Teenager",
+          "back": "teenager | Plural: Teenager"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-teilnehmen",
+          "front": "teilnehmen",
+          "back": "to take part"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-tier",
+          "front": "das Tier",
+          "back": "animal | Plural: Tiere"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-er-in-2",
+          "front": "der/die er/in",
+          "back": "zookeeper"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-traumen",
+          "front": "träumen",
+          "back": "to dream"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-traurig",
+          "front": "traurig",
+          "back": "sad"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-turnen",
+          "front": "turnen",
+          "back": "to do gymnastics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-umknicken",
+          "front": "umknicken",
+          "back": "to fold over"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-unfair",
+          "front": "unfair",
+          "back": "unfair"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-ungenugend",
+          "front": "ungenügend",
+          "back": "unsatisfactory"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-uniform",
+          "front": "die Uniform",
+          "back": "uniform"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-unten",
+          "front": "unten",
+          "back": "under"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-unterschied",
+          "front": "der Unterschied",
+          "back": "difference | Plural: Unterschiede"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-variante",
+          "front": "die Variante",
+          "back": "alternative | Plural: Varianten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-vergangenheit",
+          "front": "die Vergangenheit",
+          "back": "past"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-vokabeltest",
+          "front": "der Vokabeltest",
+          "back": "vocabulary test | Plural: Vokabeltests"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-vortrag",
+          "front": "der Vortrag",
+          "back": "presentation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-9-werfen",
+          "front": "werfen",
+          "back": "to throw"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-2-lesson-10",
+      "name": "Einfach gut A2.2 - Lektion 10: Gesund sein und gesund bleiben",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.2. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.2_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-akupunktur",
+          "front": "die Akupunktur",
+          "back": "acupuncture"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-alternative",
+          "front": "die Alternative",
+          "back": "alternative"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-anerkannt",
+          "front": "anerkannt",
+          "back": "recognised"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-anweisung",
+          "front": "die Anweisung",
+          "back": "instruction | Plural: Anweisungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-auflistung",
+          "front": "die Auflistung",
+          "back": "list"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-behandlung",
+          "front": "die Behandlung",
+          "back": "treatment | Plural: Behandlungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-belegen",
+          "front": "belegen",
+          "back": "to prove"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-bescheinigung",
+          "front": "die Bescheinigung",
+          "back": "certificate | Plural: Bescheinigungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-boden",
+          "front": "der Boden",
+          "back": "floor | Plural: Böden"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-dagegen",
+          "front": "dagegen",
+          "back": "in contrast"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-damit",
+          "front": "damit",
+          "back": "so that"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-eiswurfel",
+          "front": "der Eiswürfel",
+          "back": "ice cube | Plural: Eiswürfel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-empfindlich",
+          "front": "empfindlich",
+          "back": "sensitive"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-engagieren",
+          "front": "engagieren",
+          "back": "to engage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-entspannen",
+          "front": "entspannen",
+          "back": "to relax"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-entspannung",
+          "front": "die Entspannung",
+          "back": "relaxation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-erfahren",
+          "front": "erfahren",
+          "back": "to find out"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-erstatten",
+          "front": "erstatten",
+          "back": "to compensate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-fit",
+          "front": "fit",
+          "back": "fit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-gesamt",
+          "front": "gesamt",
+          "back": "whole"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-gesundheitlich",
+          "front": "gesundheitlich",
+          "back": "hygienic"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-gymnastik",
+          "front": "die Gymnastik",
+          "back": "g | Example: ymnastics"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-handgelenk",
+          "front": "das Handgelenk",
+          "back": "wrist"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-hausmittel",
+          "front": "das Hausmittel",
+          "back": "home remedy | Plural: Hausmittel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-haut",
+          "front": "die Haut",
+          "back": "skin"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-hiermit",
+          "front": "hiermit",
+          "back": "hierwith"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-hierzu",
+          "front": "hierzu",
+          "back": "hereto"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-hochlegen",
+          "front": "hochlegen",
+          "back": "to elevate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-holen",
+          "front": "holen",
+          "back": "to fetch"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-klagen",
+          "front": "klagen",
+          "back": "to sue"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-kommunizieren",
+          "front": "kommunizieren",
+          "back": "to communicate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-kompliziert",
+          "front": "kompliziert",
+          "back": "complicated"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-kostenerstattung",
+          "front": "die Kostenerstattung",
+          "back": "reimbursement of costs"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-kostenubernahme",
+          "front": "die Kostenübernahme",
+          "back": "cost transfer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-kuhlen",
+          "front": "kühlen",
+          "back": "to cool"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-leihen",
+          "front": "leihen",
+          "back": "to lend"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-manche",
+          "front": "manche",
+          "back": "some"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-massage",
+          "front": "die Massage",
+          "back": "massage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-massieren",
+          "front": "massieren",
+          "back": "to massage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-meditation",
+          "front": "die Meditation",
+          "back": "meditation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-muskel",
+          "front": "der Muskel",
+          "back": "muscle | Plural: Muskeln"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-nebenwirkung",
+          "front": "die Nebenwirkung",
+          "back": "side effect | Plural: Nebenwirkungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-pilates",
+          "front": "das Pilates",
+          "back": "pilates"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-rat",
+          "front": "der Rat",
+          "back": "advice"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-reizen",
+          "front": "reizen",
+          "back": "to irritate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-ruckenmuskulatur",
+          "front": "die Rückenmuskulatur",
+          "back": "back muscles"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-schlafengehen",
+          "front": "schlafengehen",
+          "back": "to go to sleep"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-schlagen",
+          "front": "schlagen",
+          "back": "to hit"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-schmerztablette",
+          "front": "die Schmerztablette",
+          "back": "pain medication"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-schwellung",
+          "front": "die Schwellung",
+          "back": "swelling"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-selber",
+          "front": "selber",
+          "back": "by oneself"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-speziell",
+          "front": "speziell",
+          "back": "special"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-sportart",
+          "front": "die Sportart",
+          "back": "type of sport"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-sportverein",
+          "front": "der Sportverein",
+          "back": "sports club"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-standig",
+          "front": "ständig",
+          "back": "constant"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-starken",
+          "front": "stärken",
+          "back": "to strengthen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-tanzkurs",
+          "front": "der Tanzkurs",
+          "back": "dance class"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-teilnahme",
+          "front": "die Teilnahme",
+          "back": "p | Example: articipation"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-teilnahmebescheinigung",
+          "front": "die Teilnahmebescheinigung",
+          "back": "participation certificate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-telefonisch",
+          "front": "telefonisch",
+          "back": "by telephone"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-therapie",
+          "front": "die Therapie",
+          "back": "therapy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-n",
+          "front": "der/die n",
+          "back": "trainer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-treiben",
+          "front": "treiben",
+          "back": "to do"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-tu-te",
+          "front": "die Tü te",
+          "back": "bag"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-ubelkeit",
+          "front": "die Übelkeit",
+          "back": "nausea"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-ubersenden",
+          "front": "übersenden",
+          "back": "to send"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-uberweisen",
+          "front": "überweisen",
+          "back": "to transfer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-ubrigens",
+          "front": "übrigens",
+          "back": "by the way"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-verabschiedung",
+          "front": "die Verabschiedung",
+          "back": "approval"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-vermitteln",
+          "front": "vermitteln",
+          "back": "to procure"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-verschreiben",
+          "front": "verschreiben",
+          "back": "to prescribe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-ungsnehmer-in",
+          "front": "der/die ungsnehmer/in",
+          "back": "policy holder"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-versicherungstarif",
+          "front": "der Versicherungstarif",
+          "back": "insurance tariff"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-verspannung",
+          "front": "die Verspannung",
+          "back": "tension | Plural: Verspannungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-wahrend",
+          "front": "während",
+          "back": "during"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-warmflasche",
+          "front": "die Wärmflasche",
+          "back": "hot water bottle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-weggehen",
+          "front": "weggehen",
+          "back": "to go away"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-10-zwischendurch",
+          "front": "zwischendurch",
+          "back": "occasionally"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-2-lesson-11",
+      "name": "Einfach gut A2.2 - Lektion 11: Auf der Bank",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.2. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.2_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-abheben",
+          "front": "abheben",
+          "back": "to withdraw"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-aktivitat",
+          "front": "die Aktivität",
+          "back": "activity | Plural: Aktivitäten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-anfordern",
+          "front": "anfordern",
+          "back": "to request"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-armut",
+          "front": "die Armut",
+          "back": "poverty"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-aufheben",
+          "front": "aufheben",
+          "back": "to cancel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-ausdrucken",
+          "front": "ausdrucken",
+          "back": "to print"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bankkarte",
+          "front": "die Bankkarte",
+          "back": "bank card"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-ann-bankkauffrau",
+          "front": "der/die ann/Bankkauffrau",
+          "back": "banker"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bankleitzahl",
+          "front": "die Bankleitzahl",
+          "back": "sort code"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bankschalter",
+          "front": "der Bankschalter",
+          "back": "bank counter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bar",
+          "front": "bar",
+          "back": "in cash"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bargeld",
+          "front": "das Bargeld",
+          "back": "cash"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bargeldlos",
+          "front": "bargeldlos",
+          "back": "cashless"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-basis",
+          "front": "die Basis",
+          "back": "basis"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-begleichen",
+          "front": "begleichen",
+          "back": "to settle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-berechnen",
+          "front": "berechnen",
+          "back": "to calculate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bestellnummer",
+          "front": "die Bestellnummer",
+          "back": "order number"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bestellung",
+          "front": "die Bestellung",
+          "back": "order"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-bic",
+          "front": "der BIC",
+          "back": "BIC"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-blick",
+          "front": "der Blick",
+          "back": "view"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-broschure",
+          "front": "die Broschüre",
+          "back": "brochure"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-drucken",
+          "front": "drücken",
+          "back": "to press"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-eigen",
+          "front": "eigen",
+          "back": "own"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-eingabe",
+          "front": "die Eingabe",
+          "back": "input | Plural: Eingaben"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-eingeben",
+          "front": "eingeben",
+          "back": "to input"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-einzahlen",
+          "front": "einzahlen",
+          "back": "to pay in"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-erledigen",
+          "front": "erledigen",
+          "back": "to manage to"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-eroffnen",
+          "front": "eröffnen",
+          "back": "to open"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-filiale",
+          "front": "die Filiale",
+          "back": "branch"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-folgend",
+          "front": "folgend",
+          "back": "following"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-formulieren",
+          "front": "formulieren",
+          "back": "to formulate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-gebuhr",
+          "front": "die Gebühr",
+          "back": "fee | Plural: Gebühren"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-geldautomat",
+          "front": "der Geldautomat",
+          "back": "cash machine"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-geldborse",
+          "front": "die Geldbörse",
+          "back": "purse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-geldstuck",
+          "front": "das Geldstück",
+          "back": "coin | Plural: Geldstücke"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-genieen",
+          "front": "genießen",
+          "back": "to enjoy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-gewinnen",
+          "front": "gewinnen",
+          "back": "to win"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-girocard",
+          "front": "die Girocard",
+          "back": "girocard"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-girokonto",
+          "front": "das Girokonto",
+          "back": "current account"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-hufeisen",
+          "front": "das Hufeisen",
+          "back": "horseshoe"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-iban",
+          "front": "die IBAN",
+          "back": "IBAN"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-indirekt",
+          "front": "indirekt",
+          "back": "indirect"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-innenstadt",
+          "front": "die Innenstadt",
+          "back": "city centre"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-jederzeit",
+          "front": "jederzeit",
+          "back": "anytime"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kleeblatt",
+          "front": "das Kleeblatt",
+          "back": "cloverleaf"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kleingeld",
+          "front": "das Kleingeld",
+          "back": "small change"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kontoauszug",
+          "front": "der Kontoauszug",
+          "back": "account statement | Plural: Kontoauszüge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-ber-in",
+          "front": "der/die ber/in",
+          "back": "account holder"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kontonummer",
+          "front": "die Kontonummer",
+          "back": "account number | Plural: Kontonummern"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kontostand",
+          "front": "der Kontostand",
+          "back": "balance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kontrollieren",
+          "front": "kontrollieren",
+          "back": "t | Example: o monitor"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kreditinstitut",
+          "front": "das Kreditinstitut",
+          "back": "credit institute | Plural: Kreditinstitute"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kreditkarte",
+          "front": "die Kreditkarte",
+          "back": "credit card | Plural: Kreditkarten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kundennummer",
+          "front": "die Kundennummer",
+          "back": "customer number | Plural: Kundennummern"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-kundenreferenz",
+          "front": "die Kundenreferenz",
+          "back": "customer reference"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-laden",
+          "front": "der Laden",
+          "back": "premises | Plural: Läden"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-leistung",
+          "front": "die Leistung",
+          "back": "service | Plural: Leistungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-menge",
+          "front": "die Menge",
+          "back": "amount"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-mobil",
+          "front": "mobil",
+          "back": "portable"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-monatlich",
+          "front": "monatlich",
+          "back": "monthly"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-munze",
+          "front": "die Münze",
+          "back": "coin | Plural: Münzen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-niemand",
+          "front": "niemand",
+          "back": "nobody"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-nulltarif",
+          "front": "der Nulltarif",
+          "back": "zero tariff rate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-nutzen",
+          "front": "nutzen",
+          "back": "useage"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-online-banking",
+          "front": "das Online-Banking",
+          "back": "online banking"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-pfennig",
+          "front": "der Pfennig",
+          "back": "penny | Plural: Pfennige"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-pin",
+          "front": "der PIN",
+          "back": "PIN"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-quatsch",
+          "front": "der Quatsch",
+          "back": "rubbish"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-rechnung",
+          "front": "die Rechnung",
+          "back": "bill"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-rechnungsbetrag",
+          "front": "der Rechnungsbetrag",
+          "back": "invoice amount"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-rechnungsnummer",
+          "front": "die Rechnungsnummer",
+          "back": "invoice number"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-reich",
+          "front": "reich",
+          "back": "rich"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-reichtum",
+          "front": "der Reichtum",
+          "back": "wealth"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-respekt",
+          "front": "der Respekt",
+          "back": "respect"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-schein",
+          "front": "der Schein",
+          "back": "bank note | Plural: Scheine"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-schieben",
+          "front": "schieben",
+          "back": "to shut"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-schlachten",
+          "front": "schlachten",
+          "back": "to rob"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-infeger-in",
+          "front": "der/die infeger/in",
+          "back": "chimney sweep"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-sparkonto",
+          "front": "das Sparkonto",
+          "back": "savings account | Plural: Sparkonten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-sparschwein",
+          "front": "das Sparschwein",
+          "back": "piggy bank | Plural: Sparschweine"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-spatestens",
+          "front": "spätestens",
+          "back": "at the latest"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-stecken",
+          "front": "stecken",
+          "back": "to put"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-stoen",
+          "front": "stoßen",
+          "back": "to encounter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-ta-n",
+          "front": "die TA N",
+          "back": "TA N"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-ta-s-t-e",
+          "front": "die Ta s t e",
+          "back": "button | Plural: Tasten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-uberfall",
+          "front": "der Überfall",
+          "back": "robbery | Plural: Überfälle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-uberfallen",
+          "front": "überfallen",
+          "back": "to rob"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-uberweisung",
+          "front": "die Überweisung",
+          "back": "transfer | Plural: Überweisungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-uberweisungsformular",
+          "front": "das Überweisungsformular",
+          "back": "bank transfer form"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-versuch",
+          "front": "der Versuch",
+          "back": "attempt | Plural: Versuche"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-verwendungszweck",
+          "front": "der Verwendungszweck",
+          "back": "purpose | Plural: Verwendungszwecke"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-vorteil",
+          "front": "der Vorteil",
+          "back": "advantage | Plural: Vorteile"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-weglaufen",
+          "front": "weglaufen",
+          "back": "to run away"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-mpfanger-in",
+          "front": "der/die mpfänger/in",
+          "back": "payee"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-zeitungsartikel",
+          "front": "der Zeitungsartikel",
+          "back": "newspaper article | Plural: Zeitungsartikel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-gin",
+          "front": "der/die gin",
+          "back": "thing"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-11-zuruckgeben",
+          "front": "zurückgeben",
+          "back": "to return"
+        }
+      ]
+    },
+    {
+      "id": "seed-einfach-gut-a2-2-lesson-12",
+      "name": "Einfach gut A2.2 - Lektion 12: Freizeitvergnügen",
+      "description": "Vocabulary from telc Einfach gut! Deutsch für die Integration A2.2. Source: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_A2.2_Wortschatzliste_Englisch.pdf",
+      "cards": [
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-abschalten",
+          "front": "abschalten",
+          "back": "to switch off"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-appetit",
+          "front": "der Appetit",
+          "back": "appetite"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-argern",
+          "front": "ärgern",
+          "back": "to annoy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-asiatisch",
+          "front": "asiatisch",
+          "back": "asian"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-ausflug",
+          "front": "der Ausflug",
+          "back": "excursion | Plural: Ausflüge"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-ausgezeichnet",
+          "front": "ausgezeichnet",
+          "back": "excellent"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-ausgleich",
+          "front": "der Ausgleich",
+          "back": "balance"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-auer",
+          "front": "außer",
+          "back": "apart from"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-aussicht",
+          "front": "die Aussicht",
+          "back": "prospect"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-r-in",
+          "front": "der/die r/in",
+          "back": "babysitter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-band",
+          "front": "die Band",
+          "back": "band"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-basketball",
+          "front": "das Basketball",
+          "back": "basketball"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-basteln",
+          "front": "basteln",
+          "back": "to do crafts"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-besteck",
+          "front": "das Besteck",
+          "back": "cutlery"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-chor",
+          "front": "der Chor",
+          "back": "choir"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-daheim",
+          "front": "daheim",
+          "back": "at home"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-daumen",
+          "front": "der Daumen",
+          "back": "thumb"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-einlass",
+          "front": "der Einlass",
+          "back": "admission"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-entlang",
+          "front": "entlang",
+          "back": "along"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-event",
+          "front": "das Event",
+          "back": "event"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-feuerzeug",
+          "front": "das Feuerzeug",
+          "back": "lighter"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-freizeit",
+          "front": "die Freizeit",
+          "back": "free time"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-freizeitaktivitat",
+          "front": "die Freizeitaktivität",
+          "back": "free time activities | Plural: Freizeitaktivitäten"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-freizeitangebot",
+          "front": "das Freizeitangebot",
+          "back": "leisure opportunities | Plural: Freizeitangebote"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-freizeitvergnugen",
+          "front": "das Freizeitvergnügen",
+          "back": "pastime"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-gabel",
+          "front": "die Gabel",
+          "back": "fork | Plural: Gabeln"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-gastronomie",
+          "front": "die Gastronomie",
+          "back": "gastronomy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-gedicht",
+          "front": "das Gedicht",
+          "back": "poem | Plural: Gedichte"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-gegensatz",
+          "front": "der Gegensatz",
+          "back": "c | Example: ontrast"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-gemischt",
+          "front": "gemischt",
+          "back": "mixed"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-geschirr",
+          "front": "das Geschirr",
+          "back": "crockery"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-grill",
+          "front": "der Grill",
+          "back": "barbecue"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-grillkohle",
+          "front": "die Grillkohle",
+          "back": "barbecue coal"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-grillplatz",
+          "front": "der Grillplatz",
+          "back": "barbecue area"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-grillsoe",
+          "front": "die Grillsoße",
+          "back": "barbecue sauce"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-grillzange",
+          "front": "die Grillzange",
+          "back": "barbecue tong"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-herrlich",
+          "front": "herrlich",
+          "back": "delightful"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-herum",
+          "front": "herum",
+          "back": "around"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-interessieren",
+          "front": "interessieren",
+          "back": "to interest"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-partner-in",
+          "front": "der/die partner/in",
+          "back": "interview partner"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-irgendwo",
+          "front": "irgendwo",
+          "back": "somewhere"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-jahrlich",
+          "front": "jährlich",
+          "back": "annually"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-jeweils",
+          "front": "jeweils",
+          "back": "respectively"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-knackig",
+          "front": "knackig",
+          "back": "crispy"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-konzentrieren",
+          "front": "konzentrieren",
+          "back": "to conc | Example: entrate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-kumpel",
+          "front": "der Kumpel",
+          "back": "mate"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-leidenschaft",
+          "front": "die Leidenschaft",
+          "back": "passion"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-loffel",
+          "front": "der Löffel",
+          "back": "spoon | Plural: Löffel"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-malen",
+          "front": "malen",
+          "back": "to paint"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-meist",
+          "front": "meist",
+          "back": "most"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-messer",
+          "front": "das Messer",
+          "back": "knife | Plural: Messer"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-mitfahren",
+          "front": "mitfahren",
+          "back": "to travel with"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-nahen",
+          "front": "nähen",
+          "back": "to sew"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-normalerweise",
+          "front": "normalerweise",
+          "back": "normally"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-open-air-konzert",
+          "front": "das Open-Air-Konzert",
+          "back": "open air concert"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-poetry-slam",
+          "front": "der Poetry-Slam",
+          "back": "poetry slam"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-regie",
+          "front": "die Regie",
+          "back": "management"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-saal",
+          "front": "der Saal",
+          "back": "hall | Plural: Säle"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-schach",
+          "front": "das Schach",
+          "back": "chess"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-schnupperkurs",
+          "front": "der Schnupperkurs",
+          "back": "taster course"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-schussel",
+          "front": "die Schüssel",
+          "back": "key"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-segeln",
+          "front": "segeln",
+          "back": "to sail"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-sieg",
+          "front": "der Sieg",
+          "back": "victory"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-spielfeld",
+          "front": "das Spielfeld",
+          "back": "playing field"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-sportergebnis",
+          "front": "das Sportergebnis",
+          "back": "sports result | Plural: Sportergebnisse"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-sportplatz",
+          "front": "der Sportplatz",
+          "back": "sp | Example: orts field"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-surfen",
+          "front": "surfen",
+          "back": "to surf"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-tango",
+          "front": "der Tango",
+          "back": "tango"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-tischdecke",
+          "front": "die Tischdecke",
+          "back": "tablecloth"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-tischdekoration",
+          "front": "die Tischdekoration",
+          "back": "table decoration"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-trotzdem",
+          "front": "trotzdem",
+          "back": "despite"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-umfangreich",
+          "front": "umfangreich",
+          "back": "comprehensive"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-umfrage",
+          "front": "die Umfrage",
+          "back": "survey"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-umkleide",
+          "front": "die Umkleide",
+          "back": "changing room"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-unterhalten",
+          "front": "unterhalten",
+          "back": "to entertain"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-veranstalten",
+          "front": "veranstalten",
+          "back": "to organise"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-verbringen",
+          "front": "verbringen",
+          "back": "to spend time"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-verpackung",
+          "front": "die Verpackung",
+          "back": "packaging | Plural: Verpackungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-verteilen",
+          "front": "verteilen",
+          "back": "to distribute"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-volleyballspiel",
+          "front": "das Volleyballspiel",
+          "back": "volley ball game"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-vorlesung",
+          "front": "die Vorlesung",
+          "back": "lecture | Plural: Vorlesungen"
+        },
+        {
+          "id": "seed-einfach-gut-a2-2-lesson-12-wundervoll",
+          "front": "wundervoll",
+          "back": "wonderful"
+        }
+      ]
+    }
+  ]
+}

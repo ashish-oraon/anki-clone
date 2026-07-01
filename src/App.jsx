@@ -10,6 +10,7 @@ import {
   getDeck,
   getDueCards,
   initializeDatabaseFromSeed,
+  resetDatabaseFromSeed,
   reviewCard,
   updateCard,
   updateDeck,
@@ -36,6 +37,31 @@ export default function App() {
         hasInitializedDatabase.current = true;
       }
 
+      setDashboard(await getDashboard());
+    } catch (currentError) {
+      setError(currentError.message);
+    } finally {
+      setIsLoading(false);
+    }
+  }
+
+  async function handleResetSeedData() {
+    const shouldReset = confirm(
+      "Reload starter decks from JSON? This clears all local decks, custom cards, and review progress in this browser.",
+    );
+
+    if (!shouldReset) {
+      return;
+    }
+
+    setIsLoading(true);
+    setError("");
+
+    try {
+      await resetDatabaseFromSeed();
+      hasInitializedDatabase.current = true;
+      setSelectedDeckId(null);
+      setIsStudying(false);
       setDashboard(await getDashboard());
     } catch (currentError) {
       setError(currentError.message);
@@ -83,7 +109,7 @@ export default function App() {
 
       {!isLoading && !selectedDeckId && (
         <>
-          <AboutPanel />
+          <AboutPanel onResetSeedData={handleResetSeedData} />
           <DeckDashboard decks={dashboard} onRefresh={refreshDashboard} onOpenDeck={setSelectedDeckId} />
         </>
       )}
@@ -106,7 +132,7 @@ export default function App() {
   );
 }
 
-function AboutPanel() {
+function AboutPanel({ onResetSeedData }) {
   return (
     <section className="about-panel">
       <div className="about-intro">
@@ -146,6 +172,19 @@ function AboutPanel() {
         <span>1. Pick or create a deck</span>
         <span>2. Add cards if needed</span>
         <span>3. Review due cards daily</span>
+      </div>
+
+      <div className="seed-reset-panel">
+        <div>
+          <h3>Need the latest starter decks?</h3>
+          <p>
+            Use this if new JSON decks were added but your browser already had older local data. It clears local
+            progress and reloads the bundled JSON files.
+          </p>
+        </div>
+        <button className="secondary" type="button" onClick={onResetSeedData}>
+          Reload starter decks
+        </button>
       </div>
     </section>
   );

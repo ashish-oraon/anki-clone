@@ -2,8 +2,9 @@ import { db } from "./db";
 import { createInitialReviewState, isDue, scheduleReview } from "../domain/scheduler";
 import seedData from "../assets/seedDecks.json";
 import telcA21SeedData from "../assets/einfachGutA21SeedDecks.json";
+import telcA22SeedData from "../assets/einfachGutA22SeedDecks.json";
 
-const seedDecks = [...seedData.decks, ...telcA21SeedData.decks];
+const seedDecks = [...seedData.decks, ...telcA21SeedData.decks, ...telcA22SeedData.decks];
 
 export async function initializeDatabaseFromSeed() {
   const [deckCount, cardCount] = await Promise.all([db.decks.count(), db.cards.count()]);
@@ -12,27 +13,7 @@ export async function initializeDatabaseFromSeed() {
     return false;
   }
 
-  const now = new Date();
-  const nowIso = now.toISOString();
-  const decks = seedDecks.map((deck) => ({
-    id: deck.id,
-    name: deck.name.trim(),
-    description: deck.description?.trim() ?? "",
-    createdAt: nowIso,
-    updatedAt: nowIso,
-  }));
-  const cards = seedDecks.flatMap((deck) =>
-    deck.cards.map((card) => ({
-      id: card.id,
-      deckId: deck.id,
-      front: card.front.trim(),
-      back: card.back.trim(),
-      suspended: false,
-      createdAt: nowIso,
-      updatedAt: nowIso,
-    })),
-  );
-  const reviewStates = cards.map((card) => createInitialReviewState(card.id, now));
+  const { decks, cards, reviewStates } = buildSeedRecords();
 
   await db.transaction("rw", db.decks, db.cards, db.reviewStates, async () => {
     await db.decks.bulkPut(decks);
@@ -41,6 +22,17 @@ export async function initializeDatabaseFromSeed() {
   });
 
   return true;
+}
+
+export async function resetDatabaseFromSeed() {
+  const { decks, cards, reviewStates } = buildSeedRecords();
+
+  await db.transaction("rw", db.decks, db.cards, db.reviewStates, db.reviewLogs, async () => {
+    await Promise.all([db.reviewLogs.clear(), db.reviewStates.clear(), db.cards.clear(), db.decks.clear()]);
+    await db.decks.bulkPut(decks);
+    await db.cards.bulkPut(cards);
+    await db.reviewStates.bulkPut(reviewStates);
+  });
 }
 
 export async function getDashboard() {
@@ -192,4 +184,30 @@ export async function reviewCard(cardId, rating) {
 
 function getDateKey(date) {
   return date.toISOString().slice(0, 10);
+}
+
+function buildSeedRecords() {
+  const now = new Date();
+  const nowIso = now.toISOString();
+  const decks = seedDecks.map((deck) => ({
+    id: deck.id,
+    name: deck.name.trim(),
+    description: deck.description?.trim() ?? "",
+    createdAt: nowIso,
+    updatedAt: nowIso,
+  }));
+  const cards = seedDecks.flatMap((deck) =>
+    deck.cards.map((card) => ({
+      id: card.id,
+      deckId: deck.id,
+      front: card.front.trim(),
+      back: card.back.trim(),
+      suspended: false,
+      createdAt: nowIso,
+      updatedAt: nowIso,
+    })),
+  );
+  const reviewStates = cards.map((card) => createInitialReviewState(card.id, now));
+
+  return { decks, cards, reviewStates };
 }
