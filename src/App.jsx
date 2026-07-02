@@ -9,6 +9,7 @@ import {
   getDashboard,
   getDeck,
   getDueCards,
+  getPracticeCards,
   initializeDatabaseFromSeed,
   resetDatabaseFromSeed,
   reviewCard,
@@ -23,6 +24,7 @@ export default function App() {
   const [dashboard, setDashboard] = useState([]);
   const [selectedDeckId, setSelectedDeckId] = useState(null);
   const [isStudying, setIsStudying] = useState(false);
+  const [studyMode, setStudyMode] = useState("due");
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState("");
   const hasInitializedDatabase = useRef(false);
@@ -122,11 +124,24 @@ export default function App() {
             refreshDashboard();
           }}
           onRefresh={refreshDashboard}
-          onStudy={() => setIsStudying(true)}
+          onPractice={() => {
+            setStudyMode("practice");
+            setIsStudying(true);
+          }}
+          onStudy={() => {
+            setStudyMode("due");
+            setIsStudying(true);
+          }}
         />
       )}
       {!isLoading && selectedDeckId && isStudying && (
-        <StudySession deck={selectedDeck} deckId={selectedDeckId} onExit={() => setIsStudying(false)} onRefresh={refreshDashboard} />
+        <StudySession
+          deck={selectedDeck}
+          deckId={selectedDeckId}
+          mode={studyMode}
+          onExit={() => setIsStudying(false)}
+          onRefresh={refreshDashboard}
+        />
       )}
     </main>
   );
@@ -258,7 +273,7 @@ function DeckDashboard({ decks, onOpenDeck, onRefresh }) {
   );
 }
 
-function DeckDetail({ deck, deckId, onDeleted, onRefresh, onStudy }) {
+function DeckDetail({ deck, deckId, onDeleted, onPractice, onRefresh, onStudy }) {
   const [cards, setCards] = useState([]);
   const [deckForm, setDeckForm] = useState(EMPTY_DECK_FORM);
   const [cardForm, setCardForm] = useState(EMPTY_CARD_FORM);
@@ -320,9 +335,14 @@ function DeckDetail({ deck, deckId, onDeleted, onRefresh, onStudy }) {
           <p className="eyebrow">Deck detail</p>
           <h2>{deck?.name ?? deckForm.name}</h2>
         </div>
-        <button type="button" onClick={onStudy} disabled={!deck?.dueCards}>
-          Study due cards ({deck?.dueCards ?? 0})
-        </button>
+        <div className="actions">
+          <button type="button" onClick={onStudy} disabled={!deck?.dueCards}>
+            Study due cards ({deck?.dueCards ?? 0})
+          </button>
+          <button className="secondary" type="button" onClick={onPractice} disabled={!deck?.totalCards}>
+            Practice again ({deck?.totalCards ?? 0})
+          </button>
+        </div>
       </div>
 
       <section className="layout-grid">
@@ -422,27 +442,34 @@ function DeckDetail({ deck, deckId, onDeleted, onRefresh, onStudy }) {
   );
 }
 
-function StudySession({ deck, deckId, onExit, onRefresh }) {
+function StudySession({ deck, deckId, mode, onExit, onRefresh }) {
   const [dueCards, setDueCards] = useState([]);
   const [isAnswerVisible, setIsAnswerVisible] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
+  const isPracticeMode = mode === "practice";
 
-  async function refreshDueCards() {
+  async function refreshStudyCards() {
     setIsLoading(true);
-    setDueCards(await getDueCards(deckId));
+    setDueCards(isPracticeMode ? await getPracticeCards(deckId) : await getDueCards(deckId));
     setIsAnswerVisible(false);
     setIsLoading(false);
   }
 
   useEffect(() => {
-    refreshDueCards();
-  }, [deckId]);
+    refreshStudyCards();
+  }, [deckId, mode]);
 
   const currentItem = dueCards[0];
 
   async function handleRating(rating) {
+    if (isPracticeMode) {
+      setDueCards((currentCards) => currentCards.slice(1));
+      setIsAnswerVisible(false);
+      return;
+    }
+
     await reviewCard(currentItem.card.id, rating);
-    await refreshDueCards();
+    await refreshStudyCards();
     onRefresh();
   }
 
@@ -453,7 +480,14 @@ function StudySession({ deck, deckId, onExit, onRefresh }) {
   if (!currentItem) {
     return (
       <section className="panel center stack">
-        <EmptyState title="All caught up" body={`No due cards remain in ${deck?.name ?? "this deck"}.`} />
+        <EmptyState
+          title={isPracticeMode ? "Practice complete" : "All caught up"}
+          body={
+            isPracticeMode
+              ? `You practiced every card in ${deck?.name ?? "this deck"} without changing the review schedule.`
+              : `No due cards remain in ${deck?.name ?? "this deck"}.`
+          }
+        />
         <button type="button" onClick={onExit}>
           Return to deck
         </button>
@@ -465,7 +499,7 @@ function StudySession({ deck, deckId, onExit, onRefresh }) {
     <section className="study-panel stack">
       <div className="section-heading">
         <div>
-          <p className="eyebrow">Study session</p>
+          <p className="eyebrow">{isPracticeMode ? "Practice session" : "Study session"}</p>
           <h2>{deck?.name}</h2>
         </div>
         <button className="secondary" type="button" onClick={onExit}>
@@ -489,6 +523,8 @@ function StudySession({ deck, deckId, onExit, onRefresh }) {
       </article>
 
       {isAnswerVisible && (
+        <>
+          {isPracticeMode && <p className="notice">Practice ratings are not saved to your spaced repetition schedule.</p>}
         <div className="rating-grid" aria-label="Review rating">
           {Object.values(RATINGS).map((rating) => (
             <button className={`rating ${rating}`} key={rating} type="button" onClick={() => handleRating(rating)}>
@@ -496,9 +532,12 @@ function StudySession({ deck, deckId, onExit, onRefresh }) {
             </button>
           ))}
         </div>
+        </>
       )}
 
-      <p className="notice">{dueCards.length} due card{dueCards.length === 1 ? "" : "s"} in this session.</p>
+      <p className="notice">
+        {dueCards.length} {isPracticeMode ? "practice" : "due"} card{dueCards.length === 1 ? "" : "s"} in this session.
+      </p>
     </section>
   );
 }

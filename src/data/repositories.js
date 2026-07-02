@@ -165,6 +165,12 @@ export async function getDueCards(deckId) {
     .sort((a, b) => new Date(a.reviewState.dueAt).getTime() - new Date(b.reviewState.dueAt).getTime());
 }
 
+export async function getPracticeCards(deckId) {
+  const cards = await db.cards.where("deckId").equals(deckId).sortBy("createdAt");
+
+  return cards.filter((card) => !card.suspended).map((card) => ({ card, reviewState: null }));
+}
+
 export async function reviewCard(cardId, rating) {
   const reviewState = await db.reviewStates.get(cardId);
 
