@@ -971,12 +971,12 @@
         },
         {
           "id": "seed-einfach-gut-a2-1-lesson-3-ner-in",
-          "front": "der/die ner/in",
+          "front": "der/die Hausbewohner/in",
           "back": "house resident"
         },
         {
           "id": "seed-einfach-gut-a2-1-lesson-3-er-in",
-          "front": "der/die er/in",
+          "front": "der/die Hausmeister/in",
           "back": "caretaker"
         },
         {
@@ -1061,7 +1061,7 @@
         },
         {
           "id": "seed-einfach-gut-a2-1-lesson-3-in",
-          "front": "der/die /in",
+          "front": "der/die anbieter/in",
           "back": "supplier"
         },
         {
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "seed-einfach-gut-a2-1-lesson-3-er-in-2",
-          "front": "der/die er/in",
+          "front": "der/die Mitbewohner er/in",
           "back": "roommate"
         },
         {
@@ -1231,7 +1231,7 @@
         },
         {
           "id": "seed-einfach-gut-a2-1-lesson-3-in-2",
-          "front": "der/die /in",
+          "front": "der/die Vermieter/in",
           "back": "landlord"
         },
         {
